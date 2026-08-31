@@ -1,6 +1,6 @@
 # 5分でわかるTechnocore 🤖
 
-![5分でわかるTechnocore](technocore-guide-v2.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c63f6c6c-9ef2-407b-a7ff-d151c9d5ff27" />
 
 Technocoreを全然理解していなかった初心者が、
 AIにサポートしてもらいながら実際にTechnocoreを触ってみた記録です。
